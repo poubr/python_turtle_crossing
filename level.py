@@ -1,6 +1,6 @@
 from turtle import Turtle
 
-FONT = ('Helvetica', 30, 'normal')
+FONT = ('Helvetica', 20, 'normal')
 
 
 class Level(Turtle):
